@@ -1,0 +1,28 @@
+{
+  "name": "gottestsi",
+  "version": "1.0.0",
+  "description": "s",
+  "main": "testFalse.js",
+  "scripts": {
+    "pass": "jest -i ./pass.js",
+    "false": "jest -i ./false.js",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoksS/gotTestSi.git"
+  },
+  "author": "MoksS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoksS/gotTestSi/issues"
+  },
+  "homepage": "https://github.com/MoksS/gotTestSi#readme",
+  "dependencies": {
+    "jest": "^25.3.0",
+    "webpack": "^4.42.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
