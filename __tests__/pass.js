@@ -1,7 +1,7 @@
 describe("pass", () => {
   it("a == b", () => {
-    const a = 7;
-    const b = 7;
+    const a = 8;
+    const b = 8;
 
     expect(a).toBe(b);
   });
