@@ -4,7 +4,7 @@
   "description": "s",
   "main": "testFalse.js",
   "scripts": {
-    "pass": "jest -i ./pass.js",
+    "test": "jest -i ./pass.js",
     "false": "jest -i ./false.js",
     "build": "webpack"
   },
