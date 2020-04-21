@@ -21,6 +21,8 @@
   "dependencies": {
     "jest": "^25.3.0",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
   },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
 }
