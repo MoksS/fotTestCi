@@ -20,7 +20,7 @@
   "homepage": "https://github.com/MoksS/gotTestSi#readme",
   "dependencies": {
     "jest": "^25.3.0",
-    "webpack": "^4.42.1",
+    "webpack": "^4.42.1"
   },
   "devDependencies": {
     "webpack-cli": "^3.3.11"
